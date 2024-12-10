@@ -7,4 +7,5 @@
 
 ## Project Demo
 
+![Demo](demo_video/demo.gif)
 
