@@ -9,4 +9,4 @@
 
 ![Demo](Demo_video/Demo.gif)
 
-<iframe width="560" height="315" src="https://youtu.be/wX_SBOqtOxI" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/wX_SBOqtOxI
