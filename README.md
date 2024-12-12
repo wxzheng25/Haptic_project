@@ -7,6 +7,6 @@
 
 ## Project Demo
 
-</object>[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wX_SBOqtOxI/0.jpg)](https://www.youtube.com/watch?v=wX_SBOqtOxI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wX_SBOqtOxI/0.jpg)](https://www.youtube.com/watch?v=wX_SBOqtOxI)
 
 
