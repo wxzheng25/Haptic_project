@@ -9,7 +9,8 @@
 
 [![YouTube](http://i.ytimg.com/vi/wX_SBOqtOxI/hqdefault.jpg)](https://www.youtube.com/watch?v=wX_SBOqtOxI)
 
-This device can be divided into three main components. The first is a control and data. The second is the upper-arm haptic system, which includes an inertial measurement unit (IMU) and four vibration motors. The IMU works in conjunction with another IMU on the forearm to compute the overall arm gesture in Cartesian space.
+This device can be divided into three main components. The first is a control and data. The second is the upper-arm haptic system, which includes an inertial measurement unit (IMU) and four vibration motors. The IMU works in conjunction with another IMU on the forearm to compute the overall arm gesture in Cartesian space. Thirdly, the forearm haptic set also has four vibrators, however, they response to give the sign to arm rotate.
+
 
 The user wears a tactile-based band on the upper limb. By following the haptic guidance, the user is expected to replicate the same limb gesture to learn the movement. The haptic armband is equipped with vibration modules, while the device integrates two IMUs attached to the upper arm and forearm. These sensors capture the unique curvatures and range of motion of the upper arm and forearm during various actions.
 
