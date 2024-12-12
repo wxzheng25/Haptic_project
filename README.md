@@ -6,7 +6,7 @@
 - [Xinyu Wang](https://github.com/wxy02111)
 
 ## Project Demo Video
-[![YouTube](http://i.ytimg.com/vi/wX_SBOqtOxI/hqdefault.jpg)](https://www.youtube.com/watch?v=wX_SBOqtOxI "YouTube Video"){width="500" height="300"}
+[![YouTube](http://i.ytimg.com/vi/wX_SBOqtOxI/hqdefault.jpg)](https://www.youtube.com/watch?v=wX_SBOqtOxI "YouTube Video"){width="1980" height="600"}
 This device can be divided into three main components. The first is a control and data. The second is the upper-arm haptic system, which includes an inertial measurement unit (IMU) and four vibration motors. The IMU works in conjunction with another IMU on the forearm to compute the overall arm gesture in Cartesian space. Thirdly, the forearm haptic set also has four vibrators, however, they response to give the sign to arm rotate.
 
 
