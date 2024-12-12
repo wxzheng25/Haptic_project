@@ -20,7 +20,7 @@ The guidance process follows three steps:
 2.	Forearm Rotation: The vibration motors on the forearm operate in a specific sequence to indicate the required twisting motion.
 3.	Elbow Joint Adjustment: The inner-side vibrator on the forearm guides the user to achieve the correct elbow-joint angle.
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/29b8a901-1478-48e8-8287-35ad254369aa" />
+<img width="310" alt="image" src="https://github.com/user-attachments/assets/29b8a901-1478-48e8-8287-35ad254369aa" />
 <img width="305" alt="image" src="https://github.com/user-attachments/assets/8ed1e238-bbef-4815-b0c1-9dc3ad04aacf" />
 
 
