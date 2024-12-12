@@ -22,7 +22,7 @@ The guidance process follows three steps:
 <img width="227" alt="image" src="https://github.com/user-attachments/assets/35b02e44-d6c7-47bc-a3b5-3325a9307232" />
 <img width="230" alt="image" src="https://github.com/user-attachments/assets/02e58061-b05a-441b-8dec-91f779973e2e" />
 
-Firstly, we calibrate the whole arm position by using horizonal and vertical vibrators to guide. Secondly, the vibrator set at forearm rotates in a certain sequence to indicate the twist. Finally, the vibrator of the forearm inside, will guide the forearm to the correct elbow-joint angle.
+Firstly, we calibrate the whole arm position by using horizonal and vertical vibrators to guide. Secondly, the vibrator set at forearm rotates in a certain sequence to indicate the twist. Finally, the vibrator of the forearm inside will guide the forearm to the correct elbow-joint angle.
 
 <img width="222" alt="image" src="https://github.com/user-attachments/assets/bff8b5e7-de8a-4965-bfae-56e841e9214c" />
 <img width="232" alt="image" src="https://github.com/user-attachments/assets/813544a0-e8bf-4e9e-aedd-c9b9494707e9" />
