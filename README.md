@@ -9,4 +9,4 @@
 
 ![Demo](Demo_video/Demo.gif)
 
-https://youtu.be/wX_SBOqtOxI
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wX_SBOqtOxI/0.jpg)](https://www.youtube.com/watch?v=wX_SBOqtOxI)
