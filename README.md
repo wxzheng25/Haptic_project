@@ -5,6 +5,8 @@
 - [Richal Yu](https://github.com/Richal13Yu)
 - [Xinyu Wang](https://github.com/wxy02111)
 
+Advisor: Prof. Jeremy D. Brown, Johns Hopkins University
+
 ## Project Demo Video
 [![YouTube](http://i.ytimg.com/vi/wX_SBOqtOxI/hqdefault.jpg)](https://www.youtube.com/watch?v=wX_SBOqtOxI "YouTube Video")
 
